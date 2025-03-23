@@ -28,3 +28,7 @@
 ### 5. Blending & Stacking
 📁 `Project_5_blending_stacking/`  
 - **Описание:** Построение ансамбля из пяти базовых моделей (`Logistic Regression`, `Support Vector Classification (SVC)`, `Decision Tree Classifier`, `Gaussian Naive Bayes Classiefier`, `Linear Regression`) с помощью методов **Blending** и **Stacking**, и сравнение результатов.
+
+### 6. Gradient matrix decomposition
+📁 `Project_6_gradient_decomposition/`  
+- **Описание:** Освоить pyTorch, реализовать метод Таккера (градиентное разложение матрицы) и сравнить с библиотечным методом (*tensorly*), написать метод оптимизации параметров модели.
